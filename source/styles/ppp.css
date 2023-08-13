@@ -1,0 +1,22 @@
+.wrapper {
+    background-color: rgba(193, 191, 191, 0.318);
+}
+.mm {
+    background-color: blue;
+}
+.fgk {
+    background-color: rgb(255, 0, 225);
+    color: rgb(253, 38, 38);
+}
+
+/* .sto, .katalog, .moka, 
+.gryzz, .ctoanka {
+    height: 450px;
+} */
+
+.tova {
+    margin-left: 70px;
+}
+.novosti {
+    color: rgba(85, 153, 255, 0.896);
+}

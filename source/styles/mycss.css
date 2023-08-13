@@ -1,0 +1,136 @@
+.nav-link {
+
+    color: rgb(247, 238, 222);
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show, .nav-link .active {
+    color: rgb(255, 180, 40);
+
+}
+
+.nav .nav-tabs {
+    color: white;
+    background-color: #000;
+}
+.logotip {
+    display: inline;  
+    background-color: white;
+    height: 30px;
+    width: 60px;
+    margin: 1em;
+}
+.navbar-brand {
+    margin: 0;
+    padding: 0;
+}
+.logotip img{
+    height: 55px;
+    
+}
+
+.navbar-toggler {
+    background-color: rgb(209, 209, 209);
+
+}
+
+.card img {
+    height: 10rem;
+}
+
+.slite-text {
+    margin: auto auto;
+}
+
+.carysel {
+    width: auto;
+    height: 150px;
+}
+
+.podval {
+    background-color: black;
+    color: rgb(255, 180, 40)
+}
+.podval .text-center {
+    color: rgb(255, 180, 40)
+}
+
+.nav-link {
+    transition: 1s;
+    /* Время эффекта */
+    text-align: center;
+}
+
+.nav-link:hover {
+    transform: scale(1.2);
+    /* Увеличиваем масштаб */
+    color: rgb(255, 225, 31);
+}
+.slide-text,
+.footer-text {
+    
+    margin: auto auto;
+}
+.tova-2 {
+    display: flex;
+}
+.iframe {
+    width: 700px;
+    height: 400px;
+}
+
+@media (max-width: 755px) {
+    .carousel-indicators {
+        display: none;
+    }
+    .moka, .ctoanka {
+        background-color: rgba(227, 227, 227, 0.612);
+    }
+    .footer-text, .scrollspy-example,
+    .list-group {
+        font-size: x-small;
+    }
+    .overflow-auto {
+        height: 490px;
+    }
+    
+    
+}
+.text-center {
+    color: rgb(28, 25, 25);
+}
+
+
+.sto {
+    width: 100 px;
+}
+.carousel {
+    height: 500px !important;
+}
+.carousel-inner img {
+    width: 400px !important;
+    margin: auto auto;
+    padding-left: 5%;
+    padding-top: 15%;
+    /* высота отображения */
+}
+.carousel-indicators .active {
+    background-color: #000;
+    /* нижнии кнопки */
+}
+.carousel-control-prev,
+.carousel-control-next {
+    width: 50px;
+    background: rgba(1, 1, 1, 0.221);
+    /* стрелочки */
+}
+
+.overflow-auto {
+    height: 499px;
+}
+
+.predlogenia a {
+    text-decoration: none;
+    color: #000;
+}
+
